@@ -1,4 +1,4 @@
-#15分钟学会使用Git
+﻿#15分钟学会使用Git
 ##### 作者：Mark24
 ##### 邮箱：mark.zhangyoung@qq.com
 ##### 时间：2015.07.28
@@ -436,3 +436,6 @@ Git提交代码的流程，已经描述完毕
 
 
 ![zhifubao](http://ww4.sinaimg.cn/mw690/44894cbbgw1eujekbi2shj206o06i3zn.jpg)
+
+
+行高vjutgcj
